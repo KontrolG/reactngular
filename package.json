@@ -10,19 +10,14 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:reactngular.helloWorld",
-    "onCommand:reactngular.displayCurrentTime"
+    "onCommand:reactngular.selectionConditionalClassToClsxExpression"
   ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "reactngular.helloWorld",
-        "title": "Hello World"
-      },
-      {
-        "command": "reactngular.displayCurrentTime",
-        "title": "Reactngular: Displays current time"
+        "command": "reactngular.selectionConditionalClassToClsxExpression",
+        "title": "Reactngular: (Selection) Conditional Class to clsx expression"
       }
     ]
   },
