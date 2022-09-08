@@ -3,6 +3,7 @@
   "displayName": "reactngular",
   "description": "Commands to replace lines of Angular code for its equivalent in React",
   "version": "0.0.1",
+  "repository": "https://github.com/KontrolG/reactngular",
   "engines": {
     "vscode": "^1.71.0"
   },
